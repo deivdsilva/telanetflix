@@ -1,0 +1,42 @@
+
+
+#bod{
+	background: black;
+}
+
+h1{
+
+	color: red;
+}
+
+h2{
+	color: white;
+}
+
+.caixa{
+
+	margin-top: 10px;
+	padding-top:  150px;
+	margin-left: 50px;
+	margin-right: 100px;
+	justify-content: 10px;
+	
+}
+
+#centro{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:  100px;
+	width: 28em;
+	
+}
+
+.cont{
+	color: white;
+}
+
+.capa-filmes{
+	background: gradient;
+	margin-top: 15px;
+	height:px;
+}
